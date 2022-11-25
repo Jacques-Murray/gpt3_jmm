@@ -1,5 +1,9 @@
 {
   "name": "gpt3_jmm",
+  "author": {
+    "name": "Jacques Murray",
+    "email": "jacquesmmurray@gmail.com"
+  },
   "version": "0.1.0",
   "private": true,
   "dependencies": {
